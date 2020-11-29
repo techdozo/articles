@@ -17,6 +17,7 @@
 
 
     <modules>
+        <module>stream-creation</module>
         <module>stream-collectors</module>
         <module>stream-toMap</module>
     </modules>
