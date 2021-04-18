@@ -1,6 +1,6 @@
-package dev.techdozo.k8s.application.repository;
+package dev.techdozo.product.application.repository;
 
-import dev.techdozo.k8s.application.Product;
+import dev.techdozo.product.application.Product;
 
 import java.util.Optional;
 

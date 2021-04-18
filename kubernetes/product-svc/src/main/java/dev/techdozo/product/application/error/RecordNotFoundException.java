@@ -1,4 +1,4 @@
-package dev.techdozo.k8s.application.error;
+package dev.techdozo.product.application.error;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

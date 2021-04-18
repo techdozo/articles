@@ -1,8 +1,8 @@
-package dev.techdozo.k8s.controller;
+package dev.techdozo.product.controller;
 
-import dev.techdozo.k8s.application.Product;
-import dev.techdozo.k8s.application.error.RecordNotFoundException;
-import dev.techdozo.k8s.application.repository.ProductRepository;
+import dev.techdozo.product.application.Product;
+import dev.techdozo.product.application.error.RecordNotFoundException;
+import dev.techdozo.product.application.repository.ProductRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

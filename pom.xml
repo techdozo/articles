@@ -20,7 +20,7 @@
         <module>stream-creation</module>
         <module>stream-collectors</module>
         <module>stream-toMap</module>
-        <module>kubernetes/sample-microservice</module>
+        <module>kubernetes/product-svc</module>
     </modules>
 
     <dependencyManagement>

@@ -1,4 +1,4 @@
-package dev.techdozo.k8s.application;
+package dev.techdozo.product.application;
 
 import lombok.Data;
 

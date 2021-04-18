@@ -1,7 +1,7 @@
-package dev.techdozo.k8s.application.repository.impl;
+package dev.techdozo.product.application.repository.impl;
 
-import dev.techdozo.k8s.application.Product;
-import dev.techdozo.k8s.application.repository.ProductRepository;
+import dev.techdozo.product.application.Product;
+import dev.techdozo.product.application.repository.ProductRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Repository;
 
